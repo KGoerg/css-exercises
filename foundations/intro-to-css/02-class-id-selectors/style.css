@@ -8,6 +8,8 @@
     font-size: 36px;
 }
 
-.twenty-four-font-size {
+.another-id {
+    background-color: #a0ffa0;
     font-size: 24px;
+    font-weight: bold;
 }
