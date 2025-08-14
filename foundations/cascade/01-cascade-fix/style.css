@@ -17,7 +17,11 @@ body {
   font-size: 22px;
 }
 
+<<<<<<< HEAD
 #confirm-button {
+=======
+.confirm {
+>>>>>>> parent of 8afa4f7 (Add and remove selectors to fix the cascade)
   background: green;
   color: white;
   font-weight: bold;
@@ -29,7 +33,7 @@ body {
   font-size: 20px;
 }
 
-.text.child {
+.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
