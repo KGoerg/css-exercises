@@ -8,7 +8,7 @@ body {
   font-weight: 800;
 }
 
-.para.small-para {
+.small-para {
   font-size: 14px;
   font-weight: 800;
 }
@@ -17,11 +17,7 @@ body {
   font-size: 22px;
 }
 
-<<<<<<< HEAD
-#confirm-button {
-=======
 .confirm {
->>>>>>> parent of 8afa4f7 (Add and remove selectors to fix the cascade)
   background: green;
   color: white;
   font-weight: bold;
