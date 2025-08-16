@@ -1,3 +1,7 @@
+* {
+  margin: 15px;
+}
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -12,6 +16,7 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 10px;
 }
 
 .content {
