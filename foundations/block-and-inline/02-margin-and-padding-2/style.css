@@ -23,11 +23,13 @@ body {
 .content {
   background: #e3f4ff;
   font-size: 30px;
+  padding: 20px 10px;
 }
 
 .button-container {
   background: #e3f4ff;
   font-size: 30px;
+  padding: 20px 10px;
 }
 
 button {
