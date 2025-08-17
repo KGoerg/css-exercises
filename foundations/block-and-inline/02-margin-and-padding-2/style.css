@@ -19,18 +19,22 @@ body {
 .title {
   background: #e3f4ff;
   padding: 10px;
+  font-size: 28px;
 }
 
 .content {
   background: #e3f4ff;
   padding: 10px;
+  font-size: 25px;
 }
 
 .button-container {
   background: #e3f4ff;
+  font-size: 25px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  font-size: 25px;
 }
