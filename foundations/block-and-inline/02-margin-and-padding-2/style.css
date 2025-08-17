@@ -20,20 +20,27 @@ body {
   padding: 10px;
 }
 
+/* DONE! */
 .content {
   background: #e3f4ff;
-  font-size: 30px;
+  font-size: 25px;
   padding: 20px 10px;
 }
 
+/* DONE! */
 .button-container {
   background: #e3f4ff;
-  font-size: 30px;
+  font-size: 25px;
   padding: 20px 10px;
+  text-align: center;
 }
 
+/* DONE! */
 button {
   background: white;
   border: 1px solid #eee;
-  font-size: 30px;
+  font-size: 25px;
+  display: block;
+  margin: 0px auto;
+  padding: 10px 30px;
 }
