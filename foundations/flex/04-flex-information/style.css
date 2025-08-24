@@ -17,10 +17,10 @@ img {
 .plant-columns {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
 .column {
-  margin: 0 52px;
   width: 200px;
 }
 
