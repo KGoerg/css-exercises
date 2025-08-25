@@ -46,6 +46,12 @@ li {
   gap: 20px;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
 .footer {
   display: flex;
   background-color: #eee;
