@@ -7,16 +7,25 @@ body {
   justify-content: space-between;
 }
 
+/* Work on header */
 .header {
   height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 0 15px;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
