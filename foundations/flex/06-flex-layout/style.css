@@ -29,9 +29,13 @@ input {
   width: 400px;
 }
 
-/* Removes underlines from links */
+/* Removes underlines and bullets from links */
 a {
   text-decoration: none;
+}
+
+li {
+  list-style-type: none;
 }
 
 /* Let's work on a footer... */
