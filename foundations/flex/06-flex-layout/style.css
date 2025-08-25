@@ -38,6 +38,12 @@ li {
   list-style-type: none;
 }
 
+.left-links,
+.right-links {
+  margin: 0;
+  padding: 0;
+}
+
 /* Let's work on a footer... */
 .footer {
   display: flex;
