@@ -53,7 +53,9 @@ li {
   padding: 20px;
 }
 
-/* Time to work on content */
+button {
+  padding: 8px;
+}
 
 .content {
   display: flex;
