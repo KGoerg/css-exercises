@@ -42,11 +42,13 @@ li {
 .right-links {
   margin: 0;
   padding: 0;
+  display: flex;
+  gap: 20px;
 }
 
-/* Let's work on a footer... */
 .footer {
   display: flex;
   background-color: #eee;
   justify-content: space-between;
+  padding: 20px;
 }
