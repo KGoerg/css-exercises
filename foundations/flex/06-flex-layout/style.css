@@ -5,6 +5,10 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  /* Adding below code to help get footer to the bottom */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 img {
@@ -28,4 +32,10 @@ input {
 /* Removes underlines from links */
 a {
   text-decoration: none;
+}
+
+/* Let's work on a footer... */
+.footer {
+  display: flex;
+  background-color: #eee;
 }
