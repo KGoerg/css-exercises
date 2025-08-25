@@ -44,12 +44,13 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  flex: 1 1 basis;
   width: 400px;
-  height: 400px;
+  padding: 20px;
 }
 
 .cards {
-  margin: 50px;
+  padding: 50px;
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
