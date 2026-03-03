@@ -38,6 +38,10 @@
   list-style-type: none;
 }
 
+.menu li {
+  margin: 20px;
+}
+
 .sidebar {
   background-color: #C50208;
   grid-row: 2 / 4;
