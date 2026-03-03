@@ -17,7 +17,7 @@
   font-weight: bold;
   color: white;
 }
-
+/* Need to figure out how to center the header links */
 .header {
   background-color: #393f4d;
   grid-column: 1 / 3;
