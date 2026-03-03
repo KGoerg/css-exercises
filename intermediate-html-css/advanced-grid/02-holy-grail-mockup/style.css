@@ -88,6 +88,8 @@
 .article {
   background-color: #bccbde;
   grid-column: 2 / 3;
+  display: grid;
+  gap: 15px;
 }
 
 .article p {
